@@ -27,7 +27,7 @@ function convertAgeToDays() {
 // Function to calculate seconds from minutes
 function calculateDays(age) {
     // 1 year = 365 days
-    return age * 365;
+    return age * 365.25;
 }
 
  // Function to display the result in the DOM
