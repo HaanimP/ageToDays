@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin: 20px;
+    background: #AEC6CF;
+}
+
+.atd{
+    background: #d4afb9;
+}
+
+.atd:hover{
+    background: #9cadce;
+}
+
+#atdc{
+    margin-top: 200px;
+    color: #daeaf6;
+}
+
+#age{
+    background: #daeaf6;
+    color: #000;
+}
+
+#convertButton{
+    background: #7ec4cf; 
+}
+
+#result{
+    font-size: 30px;
+    margin-top: 20px;
+}
